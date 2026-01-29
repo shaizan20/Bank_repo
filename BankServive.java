@@ -1,4 +1,4 @@
-public class BankService {
+public class BankServive {
 
     // Nested class (can be public or private, doesn't matter for functionality)
     static class BankAccount {
@@ -48,3 +48,4 @@ public class BankService {
         System.out.println("Final Balance: " + acc.getBalance());
     }
 }
+
